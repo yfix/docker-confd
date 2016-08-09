@@ -1,0 +1,2 @@
+# docker-confd
+Dockerized confd
